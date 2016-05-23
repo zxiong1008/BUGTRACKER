@@ -1,0 +1,132 @@
+﻿@using BUGTRACKER.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+<h2>@ViewBag.Title.</h2>
+<div class="row">
+    <div class="col-md-8">
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h4>Use a local account to log in.</h4>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <div class="checkbox">
+                            @Html.CheckBoxFor(m => m.RememberMe)
+                            @Html.LabelFor(m => m.RememberMe)
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Log in" class="btn btn-default" />
+                    </div>
+                </div>
+                <p>
+                    @Html.ActionLink("Register as a new user", "Register")
+                </p>
+                //Enable this once you have account confirmation enabled for password reset functionality
+                    <p>
+                        @Html.ActionLink("Forgot your password?", "ForgotPassword")
+                    </p>
+            }
+
+            @*@using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h3>
+                    <input name="Email" class="btn btn-danger" type="hidden" value="zxiong1008@gmail.com">
+                        <button type="submit" class="btn btn-primary">Admin</button>
+                </h3>
+            }*@
+            <br/>
+            @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+        </section>
+    </div>
+    <div class="col-md-4">
+        <section id="socialLoginForm">
+            @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h2>FREE TOUR ACCOUNTS:</h2>
+                <h4>Admin: </h4>
+                <span>
+                    Use admin demo account which have access to all project, ticket, and role managements.<br />
+                    <select name="Email" onchange="this.form.submit()" class="btn btn-primary">
+                        <option>Select Admin Demo User</option>
+                        <option value="Admin_Bugtracker1@bt.com">Administrator 1</option>
+                        <option value="Admin_Bugtracker2@bt.com">Administrator 2</option>
+                    </select>
+                </span>
+            }
+
+            @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h4>Project Managers:</h4>
+                <span>
+                    Use PM demo account which have access to all project views, and ticket assignments.<br />
+                    <select name="Email" onchange="this.form.submit()" class="btn btn-primary">
+                        <option>Select Project Manager Demo User</option>
+                        <option value="PM_Bugtracker1@bt.com">Project Manager 1</option>
+                        <option value="PM_Bugtracker2@bt.com">Project Manager 2</option>
+                    </select>
+                </span>
+            }
+
+            @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h4>Developer:</h4>
+                <span>
+                    Use developer demo account which have access to all ticket managements.<br />
+                    <select name="Email" onchange="this.form.submit()" class="btn btn-primary">
+                        <option>Select Developer Demo User</option>
+                        <option value="Dev_Bugtracker1@bt.com">Developer 1</option>
+                        <option value="Dev_Bugtracker2@bt.com">Developer 2</option>
+                        <option value="Dev_Bugtracker3@bt.com">Developer 3</option>
+                        <option value="Dev_Bugtracker4@bt.com">Developer 4</option>
+                    </select>
+                </span>
+            }
+
+            @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h4>Submitter: </h4>
+                <span>
+                    Use submitter demo account which have access to all ticket views.<br />
+                    <select name="Email" onchange="this.form.submit()" class="btn btn-primary">
+                        <option>Select Submitter Demo User</option>
+                        <option value="Submitter_Bugtracker1@bt.com">Submitter 1</option>
+                        <option value="Submitter_Bugtracker2@bt.com">Submitter 2</option>
+                    </select>
+                </span>
+            }
+        </section>
+    </div>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

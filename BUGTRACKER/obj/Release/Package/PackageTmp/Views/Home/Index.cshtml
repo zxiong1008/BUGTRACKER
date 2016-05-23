@@ -1,0 +1,161 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1><span class="fa fa-bug"></span> BUGTRACKER</h1>
+    <b class="lead">The Bug Tracker is a Web-based software application designed to mirror any of a wide variety of bug tracking software
+    systems in use by corporation thoroughout world. If a company develops software, whether for in-house use or distribution, it uses a 
+    bug tracking system to maintain an accurate record of the software development process on a per-project basis</b>
+    <p/><a href="https://en.wikipedia.org/wiki/Bug_tracking_system" target="_blank" class="btn btn-primary btn-lg">Learn more &raquo;</a>
+</div>
+Use one of our easy logins to get a jumpstart on how our BugTracker. You have different roles to chose from. Each having their own individual authority.
+<div class="row">
+    <div class="col-md-3">@********************Admin********************@
+        <h2>Administrator Demo</h2>
+        Administrators have full access to the bugtriacker projects, tickets and roles. They will be in charge of assigning projects and tickets to Project Managers. Can create projects, tickets, and roles.
+        <div class="row">
+            <div class="col-xm-6 col-sm-6 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="Admin_Bugtracker1@bt.com">
+                        <button type="submit" class="btn btn-primary">Admin 1</button>
+                    </h3>
+                }
+            </div>
+            <div class="col-sm-6 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="Admin_Bugtracker2@bt.com">
+                        <button type="submit" class="btn btn-primary">Admin 2</button>
+                    </h3>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3"> @********************Project Manager********************@
+        <h2>Project Manager Demo</h2>
+        Project Managers have access to their assigned projects and tickets, and them to the Developers. Cannot assign role, cannot create projects, can create and assign tickets.
+        <div class="row">
+            <div class="col-xm-6 col-sm-6 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="PM_Bugtracker1@bt.com">
+                        <button type="submit" class="btn btn-primary">Pjt_Mngr 1</button>
+                    </h3>
+                }
+            </div>
+            <div class="col-xm-6 col-sm-6 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="PM_Bugtracker2@bt.com">
+                        <button type="submit" class="btn btn-primary">Pjt_Mngr 2</button>
+                    </h3>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">@********************Developers********************@
+        <h2>Developer Demo</h2>
+        Developers have access to their assigned projects and update the tickets that they are assigned to. Can see all tickets he's assigned.
+        <div class="row">
+            <div class="col-xm-6 col-sm-3 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="Dev_Bugtracker1@bt.com">
+                        <button type="submit" class="btn btn-primary">Developer 1</button>
+                    </h3>
+                }
+            </div>
+            <div class="col-xm-6 col-sm-3 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="Dev_Bugtracker2@bt.com">
+                        <button type="submit" class="btn btn-primary">Developer 2</button>
+                    </h3>
+                }
+            </div>
+            <div class="col-xm-6 col-sm-3 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="Dev_Bugtracker3@bt.com">
+                        <button type="submit" class="btn btn-primary">Developer 3</button>
+                    </h3>
+                }
+            </div>
+            <div class="col-xm-6 col-sm-3 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="Dev_Bugtracker4@bt.com">
+                        <button type="submit" class="btn btn-primary">Developer 4</button>
+                    </h3>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">@********************Submitter********************@
+        <h2>Submitter Demo</h2>
+        Submitters has access to create tickets for projects to which they are assigned.
+        <div class="row">
+            <div class="col-xm-6 col-sm-6 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="Submitter_Bugtracker1@bt.com">
+                        <button type="submit" class="btn btn-primary">Submitter 1</button>
+                    </h3>
+                }
+            </div>
+            <div class="col-xm-6 col-sm-6 col-md-6">
+                @using (Html.BeginForm("DemoLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h3>
+                        <input name="Email" type="hidden" value="Submitter_Bugtracker2@bt.com">
+                        <button type="submit" class="btn btn-primary">Submitter 2</button>
+                    </h3>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+
+@*<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>*@

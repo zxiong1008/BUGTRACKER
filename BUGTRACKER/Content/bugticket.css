@@ -1,0 +1,108 @@
+﻿
+.urgent {
+    color: red;
+}
+
+.high {
+    color: orangered;
+}
+
+.medium {
+    color: yellow;
+}
+
+.low {
+    color: dodgerblue;
+}
+
+.none {
+    color: #555;
+}
+
+.new {
+    color: royalblue;
+}
+
+.working {
+    color: orangered;
+}
+
+.qa {
+    color: yellow;
+}
+
+.completed {
+    color: green;
+}
+
+.closed {
+    color: lightgreen;
+}
+
+.badcode {
+    color: red;
+}
+
+.enhancements {
+    color: blue;
+}
+
+.designfeatures {
+    color: gold;
+}
+
+.unknown {
+    color: mediumpurple;
+}
+
+.urgent, .high, .medium, .low, .none, .new, .working, .qa, .completed, .closed, .badcode, .enhancements, .designfeatures, .unknown {
+    text-shadow: 0px 1px 1px #333;
+}
+
+#ticket-comment-row, #ticket-comment {
+    border: 5px solid transparent;
+}
+
+thead, #comment-user{
+    background: rgba(0, 139, 255, 0.1);
+}
+
+hr{
+    border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+h2{
+    background: rgba(66, 139, 202, 0.65);
+    color: white;
+    text-shadow: 3px 2px 1px #333;
+    text-align: center;
+}
+.sub-heading-ticket{
+    background: rgba(66, 139, 202, 0.2); 
+    color: white; 
+    text-align: center;
+}
+/*p{
+    background: rgba(66, 139, 202, 0.2);
+    text-align: center;
+    font-size: 15px;
+}*/
+.navbar, .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand{
+    font-size: 16px;
+    color: white;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus{
+    background-color: white;
+    color: #333;
+}
+
+input, select, textarea{
+    max-width: 100%;
+}
+
+.btn-primary > a, .btn-danger > a {
+    color:white;
+}
+#ticketsTable{
+    min-width: 100%;
+}

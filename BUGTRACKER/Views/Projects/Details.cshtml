@@ -1,0 +1,81 @@
+﻿@model BUGTRACKER.Models.Project
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@Model.Name</h2>
+<div class="row">
+    <div class="col-sm-3 text-right">
+        <b><span class="fa fa-user fa-3x"></span> Project Manager: </b>
+    </div>
+    <div class="col-sm-3 center-block">
+        <span class="fa fa-user-plus fa-3x"></span> @Html.DisplayFor(model => model.ProjectManager.DisplayName)
+    </div>
+    <div class="col-sm-3 text-right">
+        <b><span class="fa fa-group fa-3x"></span> Developer Team: </b>
+     </div>
+    <div class="col-sm-3 text-left">
+        @foreach (var item in Model.Developers)
+        {
+            <span class="fa fa-user-plus"></span> @item.DisplayName;
+            <br />
+        }
+    </div>
+</div>
+<hr />
+
+<table class="table" id="ticketsTable">
+    <thead id="ticket-header">
+        <tr>
+            <th>Ticket</th>
+            <th>Assigned</th>
+            <th>Submitter</th>
+            <th>Priority</th>
+            <th>Status</th>
+            <th>Type</th>
+            <th>Created</th>
+            <th>Updated</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Tickets)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AssignedUser.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Submitter.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TicketPriority.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TicketStatus.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TicketType.Name)
+                </td>
+                <td>
+                    @item.Created.ToString("D")
+                </td>
+                <td>
+                    @if (item.Updated != null)
+                    {
+                        @item.Updated.Value.ToString("D")
+                    }
+                </td>
+            </tr>
+        }
+       
+    </tbody>
+</table>
+<hr />
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

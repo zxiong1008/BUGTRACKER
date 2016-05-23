@@ -1,0 +1,256 @@
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.csprojResolveAssemblyReference.cache
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\ApplicationInsights.config
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\csc.exe
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\vbc.exe
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\VBCSCompiler.exe
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.dll.config
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.pdb
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Antlr3.Runtime.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\EntityFramework.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\EntityFramework.SqlServer.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Web.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Newtonsoft.Json.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Owin.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.Helpers.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.Mvc.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.Optimization.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.Razor.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Razor.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\WebGrease.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Web.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.Helpers.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.Mvc.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.Optimization.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.Razor.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Razor.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Antlr3.Runtime.pdb
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Newtonsoft.Json.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\EntityFramework.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\EntityFramework.SqlServer.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.pdb
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\ApplicationInsights.config
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\csc.exe
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\vbc.exe
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\VBCSCompiler.exe
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.dll.config
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.pdb
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Antlr3.Runtime.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\EntityFramework.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\EntityFramework.SqlServer.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Web.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Newtonsoft.Json.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Owin.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.Helpers.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.Mvc.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.Optimization.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.Razor.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Razor.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\WebGrease.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Web.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.Helpers.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.Mvc.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.Optimization.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.Razor.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Razor.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Antlr3.Runtime.pdb
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Newtonsoft.Json.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\EntityFramework.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\EntityFramework.SqlServer.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.csprojResolveAssemblyReference.cache
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.pdb
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\SendGrid.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\SendGrid.SmtpApi.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\SendGridMail.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Net.Http.Formatting.dll
+C:\Users\zaxio_000\Desktop\Coder Foundry\BUGTRACKER\BUGTRACKER\bin\System.Net.Http.Formatting.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\ApplicationInsights.config
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\csc.exe
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\vbc.exe
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\VBCSCompiler.exe
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.dll.config
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\BUGTRACKER.pdb
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Antlr3.Runtime.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\EntityFramework.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\EntityFramework.SqlServer.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Web.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Newtonsoft.Json.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Owin.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\SendGrid.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\SendGrid.SmtpApi.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\SendGridMail.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Net.Http.Formatting.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.Helpers.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.Mvc.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.Optimization.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.Razor.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Razor.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\WebGrease.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.Web.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Newtonsoft.Json.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Net.Http.Formatting.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.Helpers.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.Mvc.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.Optimization.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.Razor.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\System.Web.WebPages.Razor.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Antlr3.Runtime.pdb
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\EntityFramework.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\EntityFramework.SqlServer.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.csprojResolveAssemblyReference.cache
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.dll
+C:\Users\zaxio_000\Documents\GitHub\BUGTRACKER\BUGTRACKER\obj\Release\BUGTRACKER.pdb
